@@ -27,13 +27,6 @@
   <img src="https://raw.githubusercontent.com/domodom30/ha-braise-glass-theme/main/assets/vitrine_braise_dark.png" width="49%" alt="Braise Glass">
 </p>
 
-## 🧪 En préparation
-
-- **DomoMétéo** — prévisions Open-Meteo 16 jours, pluie au quart d'heure, pollens, soleil & lune + 4 cartes intégrées (sans clé d'API).
-- **Freebox EPG** — guide TV de la Freebox en local : programme en cours, affiches, service `get_program`.
-- **Advanced Media Player Card** — carte `media_player` en Lit 3, barre de progression temps réel, éditeur graphique.
-- **Blue Glass** — thème cyan glassmorphism inspiré de visionOS.
-
 ⭐ *Mets une étoile sur les projets qui t'intéressent pour être prévenu des sorties.*
 
 ## 💛 Soutenir

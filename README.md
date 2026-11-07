@@ -4,6 +4,8 @@
 
 **Intégrations, cartes Lovelace, thèmes et add-ons pour Home Assistant**
 
+🇫🇷 **Français** · [🇬🇧 English](https://github.com/domodom30/domodom30/blob/main/README.en.md)
+
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir%20mes%20projets-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/A1V11ZZTPI)
 ![Stars](https://img.shields.io/github/stars/domodom30?style=for-the-badge&label=%E2%AD%90%20stars&color=41BDF5)
 ![Followers](https://img.shields.io/github/followers/domodom30?style=for-the-badge&color=41BDF5)

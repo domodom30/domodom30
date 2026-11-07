@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/domodom30/ha-braise-glass-theme/main/assets/vitrine_braise_dark.png" width="49%" alt="Braise Glass">
-  <img src="https://raw.githubusercontent.com/domodom30/mealie-card/main/images/mealie_mealplan.png" width="49%" alt="Mealie Card">
 </p>
 
 ## 🧪 En préparation

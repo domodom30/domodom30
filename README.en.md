@@ -51,6 +51,7 @@ An **ember glassmorphism** theme for Home Assistant: smoked glass, glowing orang
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/domodom30/ha-braise-glass-theme/main/assets/vitrine_braise_dark.png" width="49%" alt="Braise Glass — dark mode">
+  <img src="https://raw.githubusercontent.com/domodom30/ha-braise-glass-theme/main/assets/vitrine_braise_light.png" width="49%" alt="Braise Glass — light mode">
 </p>
 
 ### 🧩 [Domodom Add-ons](https://github.com/domodom30/hass-addons)

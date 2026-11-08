@@ -51,6 +51,7 @@ Thème **glassmorphism** pour Home Assistant : verre fumé, bords orangés lumin
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/domodom30/ha-braise-glass-theme/main/assets/vitrine_braise_dark.png" width="49%" alt="Braise Glass — mode sombre">
+  <img src="https://raw.githubusercontent.com/domodom30/ha-braise-glass-theme/main/assets/vitrine_braise_light.png" width="49%" alt="Braise Glass — mode clair">
 </p>
 
 ### 🧩 [Domodom Add-ons](https://github.com/domodom30/hass-addons)
